@@ -1,5 +1,5 @@
 {
-  "name": "@pleme/state-machines",
+  "name": "@pleme-io/state-machines",
   "version": "1.0.0",
   "description": "Shared TypeScript library for Nexus products",
   "type": "module",
